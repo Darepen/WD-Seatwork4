@@ -7,17 +7,6 @@ body {
     height: 100dvh; /* Ensure full viewport height */
 }
 
-header {
-    background: #D2C097; /* Beige */
-    color: #40312F; /* Dark Brown */
-    padding: 10px 0;
-    text-align: center;
-    height: 100dvh; /* Hero section height */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
 nav {
     background: #A27D72; /* Light Brown */
     text-align: center;
@@ -162,7 +151,7 @@ nav ul li a.pulse {
     background-image: url("https://projectzomboid.com/blog/content/themes/rw-project-zomboid/assets/images/zombie-survival.jpg"); 
     background-size: contain; 
     background-repeat: no-repeat; 
-    padding-top: 300px;
+    padding-top: 100px;
   } 
 }     
 
@@ -176,14 +165,14 @@ nav ul li a.pulse {
 @media (min-width: 992px){ 
   .c-hero--wrapper { 
     background-position: center; 
-    padding-top: 385px;
+    padding-top: 185px;
   } 
 }     
 
 @media (min-width: 1215px){ 
   .c-hero--wrapper { 
     background-position: center 37%; 
-    padding-top: 385px;
+    padding-top: 25px;
   } 
 }     
 
