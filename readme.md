@@ -60,7 +60,7 @@
   - **Feature 1 Page:** Description and layout of Feature 1.
   - **Feature 2 Page:** Description and layout of Feature 2.
 - What technology used and how it is used
-  - The project uses HTML for the structure and content of the website, CSS for styling and layout design, and JavaScript for interactive elements.
+  - The project uses HTML for the structure and content of the website, CSS for styling and layout design for interactive elements.
 
 
 
@@ -78,7 +78,6 @@ The Feature Display Website is a multi-page website developed as part of Seatwor
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 
@@ -100,8 +99,6 @@ WD-Seatwork4
 |   |   └─ style.css
 |   └─ img
 |   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
 └─ pages
 |  └─ pageName
 |     └─ assets
@@ -109,8 +106,6 @@ WD-Seatwork4
 |     |  |  └─ style.css
 |     |  └─ img
 |     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
 |     └─ index.html
 └─ index.html
 └─ readme.md
