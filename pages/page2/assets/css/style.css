@@ -1,0 +1,125 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #EFE8D8; /* Light Beige */
+    color: #40312F; /* Dark Brown */
+    height: 100dvh; /* Ensure full viewport height */
+}
+
+header {
+    background: #D2C097; /* Beige */
+    color: #40312F; /* Dark Brown */
+    padding: 10px 0;
+    text-align: center;
+    height: 100dvh; /* Hero section height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+nav {
+    background: #A27D72; /* Light Brown */
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #40312F; /* Dark Brown */
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 25px;
+    background: #D2C097; /* Beige */
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+nav ul li a:hover {
+    background: #715151; /* Brown */
+    color: #EFE8D8; /* Light Beige */
+    transform: scale(1.1);
+}
+
+/* Button Animation */
+@keyframes bounceIn {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-30px);
+    }
+    60% {
+        transform: translateY(-15px);
+    }
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-10px);
+    }
+    60% {
+        transform: translateY(-5px);
+    }
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+nav ul li a.animated {
+    animation-duration: 1.25s;
+}
+
+nav ul li a.bounceIn {
+    animation-name: bounceIn;
+}
+
+nav ul li a.bounce {
+    animation-name: bounce;
+}
+
+nav ul li a.pulse {
+    animation-name: pulse;
+}
+
+/* Footer */
+footer {
+    background: #715151; /* Brown */
+    color: #EFE8D8; /* Light Beige */
+    text-align: center;
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer img {
+    margin-bottom: 5px;
+}
+
+footer p {
+    margin: 0;
+}
