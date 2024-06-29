@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Darepen/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/gif/BESTLOGOEVER.gif" alt="HUH?" width="150" height="auto">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 4</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This is what I did as my Seatwork 4 for Web Design Lab.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Darepen/WD-Seatwork4)
 
 ---
 
@@ -61,6 +61,7 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  - 
 - Whats the purpose
 - What are key components
 - What technology used and how it is used
@@ -68,9 +69,7 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
