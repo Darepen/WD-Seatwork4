@@ -49,6 +49,21 @@
 
 ## Overview
 
+### Guiding Question:
+- What is the project
+  - The project is a Feature Display Website, a multi-page website developed as part of Seatwork 4 for the Web Design Lab.
+- Whats the purpose
+  - The purpose of the project is to showcase various unique and engaging design layouts for different features using pure HTML and CSS. It aims to demonstrate different layout designs and navigation techniques and practice HTML and CSS skills.
+
+- What are key components
+  - **Landing Page:** Overview and navigation to feature pages.
+  - **Feature 1 Page:** Description and layout of Feature 1.
+  - **Feature 2 Page:** Description and layout of Feature 2.
+- What technology used and how it is used
+  - The project uses HTML for the structure and content of the website, CSS for styling and layout design, and JavaScript for interactive elements.
+
+
+
 ### Project Description
 
 The Feature Display Website is a multi-page website developed as part of Seatwork 4 for the Web Design Lab. It showcases various unique and engaging design layouts for different features using pure HTML and CSS. The purpose of this project is to demonstrate different layout designs and navigation techniques, as well as to practice HTML and CSS skills.
@@ -106,4 +121,5 @@ WD-Seatwork4
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Lovelots Cakes Website | This is where I got their features from. | https://lovelotscakes.com/ |
+| Project Zomboid Website | This is where I got their features from. | https://projectzomboid.com/blog/ |
