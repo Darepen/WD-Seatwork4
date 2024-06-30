@@ -48,6 +48,9 @@
 ---
 
 ## Overview
+### Project Description
+
+The Feature Display Website is a multi-page website developed as part of Seatwork 4 for the Web Design Lab. It showcases various unique and engaging design layouts for different features using pure HTML and CSS. The purpose of this project is to demonstrate different layout designs and navigation techniques, as well as to practice HTML and CSS skills.
 
 ### Guiding Question:
 - What is the project
@@ -64,9 +67,6 @@
 
 
 
-### Project Description
-
-The Feature Display Website is a multi-page website developed as part of Seatwork 4 for the Web Design Lab. It showcases various unique and engaging design layouts for different features using pure HTML and CSS. The purpose of this project is to demonstrate different layout designs and navigation techniques, as well as to practice HTML and CSS skills.
 
 ### Key Components
 
