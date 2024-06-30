@@ -165,7 +165,7 @@ nav ul li a.pulse {
 @media (min-width: 992px){ 
   .c-hero--wrapper { 
     background-position: center; 
-    padding-top: 185px;
+    padding-bottom: 70dvh;
   } 
 }     
 
@@ -776,6 +776,8 @@ nav ul li a.pulse {
 .c-bg--gog .price  { 
     margin-left: -5px;
 } 
+
+
 
 
 /* These were inline style tags. Uses id+class to override almost everything */
